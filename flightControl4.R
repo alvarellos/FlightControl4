@@ -1,5 +1,4 @@
-# Mark Daniel Ward
-# the tapply function
+# Diego Diaz
 
 myDF <- read.csv("C://Users/Diego/Documents/R/2008.csv")
 
